@@ -3,8 +3,8 @@
 - 👀 I’m interested in data science. I started my study in September 2020. I learning data field technologies, languages (Python, SQL),  
 - 🌱  I’m currently learning programming in Python for  Data Scientists. 
       My main sources of knowledge are cognitive class, Github, books, DataCamp, Kaggle.
-- 🎯 My goal is to learn Python, SQL, and  Power BI and find my first job as a Data Scientist field in mid-2021. 
-- 💞️ I’m looking to collaborate and to learn together by creating new projects that include data mining, exploratory, forecasting, statistic, ML and AI for buisssnes. I would like to practice my skills.
+- 🎯 My goal is to learn Python, SQL, and  Power BI and find my first job as a Data Scientist field in 2022. 
+- 💞️ I’m looking to collaborate and to learn together by creating new projects.
 - 📫 How to reach me: sent me an email. <piotrpgud@gmail.com>
 
 <!---
